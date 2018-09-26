@@ -4,7 +4,7 @@
 #--------------------------------------------------------------------------
 #
 
-FROM php:7.2-fpm
+FROM arm32v7/php:7.2-fpm
 
 MAINTAINER Mahmoud Zalt <mahmoud@zalt.me>
 
